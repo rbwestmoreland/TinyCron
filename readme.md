@@ -1,7 +1,7 @@
 TinyCron
 ===  
 
-**TinyCron** is cron for .NET. 
+**TinyCron** is cron for .NET 
 
     using System;
     
@@ -16,7 +16,9 @@ TinyCron
         }
     }
 
+[**more examples** :arrow_right:](/src/TinyCron.Example/Program.cs)
+
 License
 ---  
-**TinyCron** is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license
-**NCrontab** is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license
+**TinyCron** is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
+[**NCrontab**](https://code.google.com/p/ncrontab/) is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
