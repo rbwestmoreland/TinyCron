@@ -18,6 +18,15 @@ TinyCron
 
 [**more examples** :arrow_right:](/src/TinyCron.Example/Program.cs)
 
+Dependencies
+---  
+* .NET 4.5
+
+Installation
+---  
+* Copy [TinyCron.cs](/src/TinyCron/TinyCron.cs) into your project.
+
+
 License
 ---  
 **TinyCron** is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
