@@ -16,7 +16,7 @@ TinyCron
         }
     }
 
-[**more examples** :arrow_right:](/src/TinyCron.Example/Program.cs)
+[more examples :mag_right:](/src/TinyCron.Example/Program.cs)
 
 Dependencies
 ---  
@@ -24,10 +24,13 @@ Dependencies
 
 Installation
 ---  
-* Copy [TinyCron.cs](/src/TinyCron/TinyCron.cs) into your project.
+* Just copy [TinyCron.cs](/src/TinyCron/TinyCron.cs) into your project.
 
 
 License
 ---  
-**TinyCron** is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
-[**NCrontab**](https://code.google.com/p/ncrontab/) is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
+*TinyCron* is licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
+
+Credits
+--- 
+[NCrontab](https://code.google.com/p/ncrontab/) by  [Atif Aziz](http://www.raboof.com) licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) license  
