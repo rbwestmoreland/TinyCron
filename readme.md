@@ -4,6 +4,7 @@ TinyCron
 **TinyCron** is cron for .NET 
 
     using System;
+    using TinyCron;
     
     class Program
     {
