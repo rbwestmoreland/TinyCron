@@ -3,19 +3,21 @@ TinyCron
 
 **TinyCron** is cron for .NET 
 
-    using System;
-    using TinyCron;
-    
-    class Program
+```csharp
+using System;
+using TinyCron;
+
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            var tinyCron = new TinyCronApplication();
-            var cronJob = new AnonymousTinyCronJob("* * * * *", () => Console.WriteLine("I'll run every minute!"));
-            tinyCron.Register(cronJob);
-            tinyCron.Start();
-        }
+        var tinyCron = new TinyCronApplication();
+        var cronJob = new AnonymousTinyCronJob("* * * * *", () => Console.WriteLine("I'll run every minute!"));
+        tinyCron.Register(cronJob);
+        tinyCron.Start();
     }
+}
+```
 
 [more examples :mag_right:](/src/TinyCron.Example/Program.cs)
 
